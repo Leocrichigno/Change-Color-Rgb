@@ -1,0 +1,28 @@
+.teste {
+  width: 70px;
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#cAzul {
+  color: darkblue;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#cVem {
+  color: red;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#cVer {
+  color: green;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+div#layout {
+  height: 300px;
+  width: 300px;
+  box-shadow: 1px 1px 2px black;
+}
